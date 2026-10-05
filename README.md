@@ -197,6 +197,7 @@ Distributable bundles combining skills + app integrations + MCP servers. Defined
 - [xmm/codex-bmad-skills](https://github.com/xmm/codex-bmad-skills) - BMAD methodology plugin - structured planning, design, and implementation workflow. ![GitHub stars](https://img.shields.io/github/stars/xmm/codex-bmad-skills?style=flat-square)
 - [regenrek/codex-1up](https://github.com/regenrek/codex-1up) - Bootstrap tool that installs Codex CLI plus curated power tools and an AGENTS.md template. Three profiles: balanced, safe, yolo. ![GitHub stars](https://img.shields.io/github/stars/regenrek/codex-1up?style=flat-square)
 - [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Compound Engineering plugin for Claude Code, Codex, and more. Structured multi-agent workflows. ![GitHub stars](https://img.shields.io/github/stars/EveryInc/compound-engineering-plugin?style=flat-square)
+- [rossoctl/context-guru](https://github.com/rossoctl/context-guru) - Context optimization plugin for Codex that manages prompt caching and reduces redundant context during long coding sessions. ![GitHub stars](https://img.shields.io/github/stars/rossoctl/context-guru?style=flat-square)
 
 ## Hooks
 
@@ -298,7 +299,6 @@ Codex can connect to MCP servers (as client) and expose itself as an MCP server 
 - [re-cinq/shift-log](https://github.com/re-cinq/shift-log) - Automatically saves coding agents' conversations in Git Notes. Works with Codex, Claude Code, Gemini CLI, OpenCode. ![GitHub stars](https://img.shields.io/github/stars/re-cinq/shift-log?style=flat-square)
 - [2ue/ccman](https://github.com/2ue/ccman) - Tool for managing Claude Code + Codex API + Gemini CLI + OpenCode service provider configurations. ![GitHub stars](https://img.shields.io/github/stars/2ue/ccman?style=flat-square)
 - [Dicklesworthstone/coding_agent_session_search](https://github.com/Dicklesworthstone/coding_agent_session_search) - Unified TUI and CLI to index and search local coding agent session history across 11+ providers including Codex. ![GitHub stars](https://img.shields.io/github/stars/Dicklesworthstone/coding_agent_session_search?style=flat-square)
-- [rossoctl/context-guru](https://github.com/rossoctl/context-guru) - Context optimization for Codex that manages prompt caching and reduces redundant context during long coding sessions. ![GitHub stars](https://img.shields.io/github/stars/rossoctl/context-guru?style=flat-square)
 
 ## Model Providers & Proxies
 
